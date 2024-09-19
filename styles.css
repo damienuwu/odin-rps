@@ -1,0 +1,7 @@
+.winner-message {
+    font-weight: bold;
+    color: #ff0000; /* Red color for emphasis */
+    font-size: 1.5em; /* Larger font size */
+    text-shadow: 1px 1px 2px #000000; /* Optional: adds a shadow effect */
+    margin-top: 20px; /* Adds spacing above the message */
+}
